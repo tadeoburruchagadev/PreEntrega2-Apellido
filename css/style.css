@@ -21,6 +21,15 @@
   font-size: 1.2rem;
 }
 
+/* .tamaño-img {
+  
+  max-width: 400px;
+} */
+
+.tamaño-card {
+  max-width: 600px;
+}
+
 /* RESPONSIVO */
 @media (max-width: 767px) {
   .navbar-brand {
