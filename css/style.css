@@ -93,4 +93,7 @@ footer {
   .navbar-brand {
     display: none;
   }
+  .logo-nosotros {
+    display: none;
+  }
 }
