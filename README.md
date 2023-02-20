@@ -25,3 +25,21 @@ Nosotros:
 Contacto:
 
 ![Contacto](img/CapturaContacto.PNG)
+
+## Tecnologías
+
+Esta página web fue creada con:
+
+- HTML
+- CSS
+- Bootstrap 5
+
+Además, se incluyeron **Google Fonts** para personalizar la fuente.
+
+## Español
+
+El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
+
+## Proyecto en vivo
+
+Puedes acceder al proyecto en vivo en: https://tadeoburruchagadev.github.io/PreEntrega2-Burruchaga
