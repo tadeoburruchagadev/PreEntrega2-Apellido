@@ -1,9 +1,9 @@
-* {
+main {
   background: rgb(166, 138, 56);
-  background: radial-gradient(
-    circle,
+  background: linear-gradient(
+    0deg,
     rgba(166, 138, 56, 1) 0%,
-    rgba(37, 37, 37, 1) 100%
+    rgba(119, 119, 119, 0.8155637254901961) 100%
   );
 }
 /* RESPONSIVO */

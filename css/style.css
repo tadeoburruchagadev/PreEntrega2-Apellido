@@ -77,8 +77,19 @@ footer {
   background-color: dimgrey;
 }
 
-.nav-link a:hover {
-  color: #a68a38;
+main {
+  background: rgb(166, 138, 56);
+  background: linear-gradient(0deg, rgb(166, 138, 56) 0%, rgba(119, 119, 119, 0.8155637255) 100%);
+}
+
+/* RESPONSIVO */
+@media (max-width: 767px) {
+  .navbar-brand {
+    display: none;
+  }
+  .logo-nosotros {
+    display: none;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
