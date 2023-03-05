@@ -1,3 +1,84 @@
+@charset "UTF-8";
+/* MAPA */
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
 
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+footer {
+  background-color: black;
+  padding-top: 1rem;
+}
+
+.footer-sm {
+  background-color: #232323;
+  color: white;
+}
+
+.footer-sm a {
+  color: white;
+}
+
+.footer-sm a i {
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+
+.footer.sm__icons {
+  text-align: center;
+  padding-bottom: 1.5rem 0;
+}
+
+.footer-bottom__copyright {
+  text-align: center;
+  color: gray;
+}
+
+.footer-bottom {
+  padding-bottom: 1.5rem 0;
+}
+
+.titulo-cartas {
+  text-align: center;
+  color: #a68a38;
+  font-weight: bold;
+}
+
+.sub-cartas {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.tamaño-card {
+  max-width: 600px;
+}
+
+.navbar {
+  padding: 2rem;
+  font-weight: bold;
+}
+
+.navbar-collapse {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.color-nav {
+  background-color: dimgrey;
+}
+
+.nav-link a:hover {
+  color: #a68a38;
+}
 
 /*# sourceMappingURL=style.css.map */

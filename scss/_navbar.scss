@@ -1,0 +1,16 @@
+.navbar {
+  padding: 2rem;
+  font-weight: bold;
+}
+.navbar-collapse {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.color-nav {
+  background-color: dimgrey;
+}
+
+.nav-link a:hover {
+  color: #a68a38;
+}
