@@ -57,6 +57,10 @@
   max-width: 600px;
 }
 
+.fondonew {
+  background: #000000;
+}
+
 .navbar {
   padding: 2rem;
   font-weight: bold;
@@ -83,7 +87,7 @@
 }
 
 main {
-  background: rgb(166, 138, 56);
+  background: #a68a38;
   background: linear-gradient(0deg, rgb(48, 47, 44) 0%, rgba(119, 119, 119, 0.8155637255) 100%);
 }
 
