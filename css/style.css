@@ -76,14 +76,18 @@
   background-color: #3d3b35;
 }
 
-.texto-nosotros h1 {
+.container .logo-nosotros img {
+  max-width: 100%;
+}
+.container .texto-nosotros h1 {
   color: #a68a38;
 }
-.texto-nosotros p {
+.container .texto-nosotros p {
   color: #a68a38;
   background-image: linear-gradient(to bottom, #a68a38, #ffffff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 main {
