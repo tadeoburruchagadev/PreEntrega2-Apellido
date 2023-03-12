@@ -1,0 +1,21 @@
+$color-primario: #a68a38;
+$color-secundario: #ffffff;
+
+.texto-nosotros {
+  h1 {
+    color: $color-primario;
+  }
+
+  p {
+    color: $color-primario;
+
+    // degradado vertical
+    background-image: linear-gradient(
+      to bottom,
+      $color-primario,
+      $color-secundario
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}

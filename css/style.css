@@ -69,12 +69,22 @@
   background-color: dimgrey;
 }
 .navbar.color-nav:hover {
-  background-color: #555;
+  background-color: #3d3b35;
+}
+
+.texto-nosotros h1 {
+  color: #a68a38;
+}
+.texto-nosotros p {
+  color: #a68a38;
+  background-image: linear-gradient(to bottom, #a68a38, #ffffff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 main {
   background: rgb(166, 138, 56);
-  background: linear-gradient(0deg, rgb(166, 138, 56) 0%, rgba(119, 119, 119, 0.8155637255) 100%);
+  background: linear-gradient(0deg, rgb(48, 47, 44) 0%, rgba(119, 119, 119, 0.8155637255) 100%);
 }
 
 /* RESPONSIVO */
