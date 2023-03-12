@@ -1,6 +1,9 @@
+$titulo-color: #a68a38;
+$tamano-card: 600px;
+
 .titulo-cartas {
   text-align: center;
-  color: #a68a38;
+  color: $titulo-color;
   font-weight: bold;
 }
 
@@ -10,5 +13,5 @@
 }
 
 .tamaño-card {
-  max-width: 600px;
+  max-width: $tamano-card;
 }
