@@ -8,23 +8,23 @@ También incluye imágenes a modo de ilustracion sobre los productos en la carpe
 
 ### Capturas de pantalla:
 
-![Primera parte de la página web](img/capturaHome.PNG)
+![Primera parte de la página web](img/Chome.html.png)
 
 Personalizacion:
 
-![Personalizacion](img/CapturaPersonalizacion.PNG)
+![Personalizacion](img/Cpersonalizacion.html.png)
 
 Gorras:
 
-![Gorras](img/CapturaGorras.PNG)
+![Gorras](img/Cgorras.html.png)
 
 Nosotros:
 
-![Nosotros](img/CapturaNosotros.PNG)
+![Nosotros](img/Cnosotros.html.png)
 
 Contacto:
 
-![Contacto](img/CapturaContacto.PNG)
+![Contacto](img/Ccontacto.html.png)
 
 ## Tecnologías
 
