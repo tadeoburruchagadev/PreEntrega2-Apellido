@@ -1,3 +1,4 @@
+$mobile-max-width: 767px;
 $main-bg-color: #a68a38;
 $main-bg-gradient: linear-gradient(
   0deg,
@@ -10,10 +11,22 @@ main {
   background: $main-bg-gradient;
 }
 
-/* RESPONSIVO */
-@media (max-width: 767px) {
+@media (max-width: $mobile-max-width) {
   .navbar-brand,
   .logo-nosotros {
     display: none;
+  }
+}
+
+.banner {
+  svg {
+    @media (max-width: $mobile-max-width) {
+      display: none;
+    }
+  }
+  h2 {
+    @media (max-width: $mobile-max-width) {
+      font-size: 10px;
+    }
   }
 }
