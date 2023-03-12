@@ -1,4 +1,4 @@
-# Pre-entrega 2 para el curso de coderhouse (Responsive) con Bootstrap 5
+# Pre-entrega 3 para el curso de coderhouse (Responsive) con Bootstrap 5
 
 Este proyecto creado para el curso de desarrollador full stack, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive").
 
