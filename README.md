@@ -33,6 +33,7 @@ Esta página web fue creada con:
 - HTML
 - CSS
 - Bootstrap 5
+- Sass
 
 Además, se incluyeron **Google Fonts** para personalizar la fuente.
 
