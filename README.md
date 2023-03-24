@@ -33,6 +33,7 @@ Esta página web fue creada con:
 - HTML
 - CSS
 - Bootstrap 5
+- Sass
 
 Además, se incluyeron **Google Fonts** para personalizar la fuente.
 
@@ -42,4 +43,4 @@ El texto de la página web está escrito en español, al igual que las clases y 
 
 ## Proyecto en vivo
 
-Puedes acceder al proyecto en vivo en: https://tadeoburruchagadev.github.io/PreEntrega2-Burruchaga
+Puedes acceder al proyecto en vivo en: https://tadeoburruchagadev.github.io/PreEntrega3-Burruchaga/
