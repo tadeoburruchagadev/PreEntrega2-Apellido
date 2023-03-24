@@ -4,6 +4,7 @@ $nav-bg-color-hover: #3d3b35;
 .navbar {
   padding: 2rem;
   font-weight: bold;
+  transition: background-color 0.3s ease-in-out; // Agregar transición
 
   &-collapse {
     align-items: center;
